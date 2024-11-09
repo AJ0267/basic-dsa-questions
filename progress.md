@@ -1,3 +1,3 @@
 | **S.No** | **Topic**            | **Problem**                                              | **Status**   | **Notes** |
 |----------|----------------------|----------------------------------------------------------|--------------|-----------|
-| 1        | Arrays               | Problem description here                                 | ⏳ Pending    | --        |
+| 001        | Arrays               | Problem description here                                 | ⏳ Pending    | --        |
