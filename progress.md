@@ -25,7 +25,7 @@
 | 23        | Arrays               | Sort an array according to the order defined by another array       | ⏳   | --        |
 | 24        | Arrays               | Search an element in an array                                       | ⏳   | --        |
 | 25        | Arrays               | Check if Array is a subset of another array or not                  | ⏳   | --        |
-| 26        | Numbers              | Check if a number is palindrome or not                              | ⏳   | --        |
+| 26        | Numbers              | Check if a number is palindrome or not                              | ✅   | --        |
 | 27        | Numbers              | Find all palindrome numbers in a given range                        | ⏳   | --        |
 | 28        | Numbers              | Check if a number is prime or not                                   | ⏳   | --        |
 | 29        | Numbers              | Prime numbers in a given range                                      | ⏳   | --        |
