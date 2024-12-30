@@ -53,7 +53,7 @@
 | 51        | Numbers              | Check if a number is a Harshad number                               | ⏳   | --        |
 | 52        | Numbers              | Check if the number is an abundant number or not                    | ⏳   | --        |
 | 53        | Numbers              | Sum of digits of a number                                           | ⏳   | --        |
-| 54        | Numbers              | Sum of numbers in the given range                                   | ⏳   | --        |
+| 54        | Numbers              | Sum of numbers in the given range                                   | ✅   | --        |
 | 55        | Numbers              | Permutations in which N people can occupy R seats in a classroom    | ⏳   | --        |
 | 56        | Numbers              | Program to add two fractions                                        | ⏳   | --        |
 | 57        | Numbers              | Replace all 0s with 1s in a given integer                           | ⏳   | --        |
