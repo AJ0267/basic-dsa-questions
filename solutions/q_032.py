@@ -2,9 +2,9 @@
 
 def even_or_odd(number):
     if number % 2 == 0 :
-        return f"Even"
+        return "Even"
     else:
-        return f"Odd"
+        return "Odd"
     
 
 print(even_or_odd(1))
