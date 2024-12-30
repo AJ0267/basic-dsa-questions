@@ -25,5 +25,41 @@
 | 23        | Arrays               | Sort an array according to the order defined by another array       | ⏳   | --        |
 | 24        | Arrays               | Search an element in an array                                       | ⏳   | --        |
 | 25        | Arrays               | Check if Array is a subset of another array or not                  | ⏳   | --        |
+| 26        | Numbers              | Check if a number is palindrome or not                              | ⏳   | --        |
+| 27        | Numbers              | Find all palindrome numbers in a given range                        | ⏳   | --        |
+| 28        | Numbers              | Check if a number is prime or not                                   | ⏳   | --        |
+| 29        | Numbers              | Prime numbers in a given range                                      | ⏳   | --        |
+| 30        | Numbers              | Check if a number is an armstrong number or not                     | ⏳   | --        |
+| 31        | Numbers              | Check if a number is a perfect number                               | ⏳   | --        |
+| 32        | Numbers              | Even or Odd                                                         | ⏳   | --        |
+| 33        | Numbers              | Check whether a given number is positive or negative                | ⏳   | --        |
+| 34        | Numbers              | Sum of first N natural numbers                                      | ⏳   | --        |
+| 35        | Numbers              | Find sum of AP Series                                               | ⏳   | --        |
+| 36        | Numbers              | Program to find sum of GP Series                                    | ⏳   | --        |
+| 37        | Numbers              | Greatest of two numbers                                             | ⏳   | --        |
+| 38        | Numbers              | Greatest of three numbers                                           | ⏳   | --        |
+| 39        | Numbers              | Leap year or not                                                    | ⏳   | --        |
+| 40        | Numbers              | Reverse digits of a number                                          | ⏳   | --        |
+| 41        | Numbers              | Maximum and Minimum digit in a number                               | ⏳   | --        |
+| 42        | Numbers              | Print Fibonacci up to Nth term                                      | ⏳   | --        |
+| 43        | Numbers              | Factorial of a number                                               | ⏳   | --        |
+| 44        | Numbers              | Power of a number                                                   | ⏳   | --        |
+| 45        | Numbers              | Factors of a given number                                           | ⏳   | --        |
+| 46        | Numbers              | Print all prime factors of the given number                         | ⏳   | --        |
+| 47        | Numbers              | Check if a number is a strong number or not                         | ⏳   | --        |
+| 48        | Numbers              | Check if a number is Automorphic                                    | ⏳   | --        |
+| 49        | Numbers              | GCD of two numbers                                                  | ⏳   | --        |
+| 50        | Numbers              | LCM of two numbers                                                  | ⏳   | --        |
+| 51        | Numbers              | Check if a number is a Harshad number                               | ⏳   | --        |
+| 52        | Numbers              | Check if the number is an abundant number or not                    | ⏳   | --        |
+| 53        | Numbers              | Sum of digits of a number                                           | ⏳   | --        |
+| 54        | Numbers              | Sum of numbers in the given range                                   | ⏳   | --        |
+| 55        | Numbers              | Permutations in which N people can occupy R seats in a classroom    | ⏳   | --        |
+| 56        | Numbers              | Program to add two fractions                                        | ⏳   | --        |
+| 57        | Numbers              | Replace all 0s with 1s in a given integer                           | ⏳   | --        |
+| 58        | Numbers              | Can a number be expressed as a sum of two prime numbers             | ⏳   | --        |
+| 59        | Numbers              | Calculate the area of a circle                                      | ⏳   | --        |
+| 60        | Numbers              | Program to find roots of a quadratic equation                       | ⏳   | --        |
+
 
 
