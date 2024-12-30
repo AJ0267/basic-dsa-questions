@@ -14,4 +14,5 @@
 | 12        | Arrays               | Remove duplicates from unsorted array                                | ⏳   | --        |
 | 13        | Arrays               | Adding Element in an array                                | ✅   | --        |
 | 14        | Arrays               | Find all repeating elements in an array                               | ✅   | --        |
+| 15        | Arrays               | Find all non-repeating elements in an array                               | ✅   | --        |
 
