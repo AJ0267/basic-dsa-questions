@@ -36,8 +36,8 @@
 | 34        | Numbers              | Sum of first N natural numbers                                      | ⏳   | --        |
 | 35        | Numbers              | Find sum of AP Series                                               | ⏳   | --        |
 | 36        | Numbers              | Program to find sum of GP Series                                    | ⏳   | --        |
-| 37        | Numbers              | Greatest of two numbers                                             | ⏳   | --        |
-| 38        | Numbers              | Greatest of three numbers                                           | ⏳   | --        |
+| 37        | Numbers              | Greatest of two numbers                                             | ✅   | --        |
+| 38        | Numbers              | Greatest of three numbers                                           | ✅   | --        |
 | 39        | Numbers              | Leap year or not                                                    | ✅   | --        |
 | 40        | Numbers              | Reverse digits of a number                                          | ⏳   | --        |
 | 41        | Numbers              | Maximum and Minimum digit in a number                               | ⏳   | --        |

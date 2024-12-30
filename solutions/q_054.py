@@ -13,4 +13,4 @@ def sum_of_range_formula(start,end):
 
 
 print(sum_of_range(1,10))
-print(sum_of_range_formula(1,10))
+print(sum_of_range_formula(5,13))
