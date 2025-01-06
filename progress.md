@@ -39,7 +39,7 @@
 | 37        | Numbers              | Greatest of two numbers                                             | ✅   | --        |
 | 38        | Numbers              | Greatest of three numbers                                           | ✅   | --        |
 | 39        | Numbers              | Leap year or not                                                    | ✅   | --        |
-| 40        | Numbers              | Reverse digits of a number                                          | ⏳   | --        |
+| 40        | Numbers              | Reverse digits of a number                                          | ✅   | --        |
 | 41        | Numbers              | Maximum and Minimum digit in a number                               | ⏳   | --        |
 | 42        | Numbers              | Print Fibonacci up to Nth term                                      | ⏳   | --        |
 | 43        | Numbers              | Factorial of a number                                               | ⏳   | --        |
