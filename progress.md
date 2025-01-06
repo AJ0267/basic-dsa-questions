@@ -79,9 +79,9 @@
 | 77        | Strings               | Remove spaces from a string                                         | ✅   | --        |
 | 78        | Strings               | Remove characters from a string except alphabets                    | ✅   | --        |
 | 79        | Strings               | Reverse a string                                                   | ✅   | --        |
-| 80        | Strings               | Remove brackets from an algebraic expression                        | ✅   | --        |
+| 80        | Strings               | Remove brackets from an algebraic expression                        | ✅   | .replace("(", "") and .replace(")", "")         |
 | 81        | Strings               | Sum of the numbers in a string                                      | ✅   | --        |
-| 82        | Strings               | Capitalize first and last character of each word                    | ✅   | --        |
+| 82        | Strings               | Capitalize first and last character of each word                    | ✅   | upper()        |
 | 83        | Strings               | Calculate frequency of characters in a string                       | ⏳   | --        |
 | 84        | Strings               | Find non-repeating characters of a string                           | ⏳   | --        |
 | 85        | Strings               | Check if two strings are anagram of each other                      | ⏳   | --        |
@@ -96,7 +96,7 @@
 | 94        | Strings               | Write a program to sort characters in a string                      | ⏳   | --        |
 | 95        | Strings               | Count number of words in a given string                             | ✅   | --        |
 | 96        | Strings               | Write a program to find a word in a given string which has the highest number of repeated letters | ⏳   | --        |
-| 97        | Strings               | Change case of each character in a string                           | ✅   | --        |
+| 97        | Strings               | Change case of each character in a string                           | ✅   | isupper(), islower(), upper(), lower()        |
 | 98        | Strings               | Concatenate one string to another                                   | ⏳   | --        |
 | 99        | Strings               | Write a program to find a substring within a string. If found display its starting position | ⏳   | --        |
 | 100       | Strings               | Reverse words in a string                                           | ✅   | --        |
