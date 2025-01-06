@@ -96,7 +96,7 @@
 | 94        | Strings               | Write a program to sort characters in a string                      | ⏳   | --        |
 | 95        | Strings               | Count number of words in a given string                             | ⏳   | --        |
 | 96        | Strings               | Write a program to find a word in a given string which has the highest number of repeated letters | ⏳   | --        |
-| 97        | Strings               | Change case of each character in a string                           | ⏳   | --        |
+| 97        | Strings               | Change case of each character in a string                           | ✅   | --        |
 | 98        | Strings               | Concatenate one string to another                                   | ⏳   | --        |
 | 99        | Strings               | Write a program to find a substring within a string. If found display its starting position | ⏳   | --        |
 | 100       | Strings               | Reverse words in a string                                           | ⏳   | --        |
