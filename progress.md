@@ -81,7 +81,7 @@
 | 79        | Strings               | Reverse a string                                                   | ✅   | --        |
 | 80        | Strings               | Remove brackets from an algebraic expression                        | ✅   | --        |
 | 81        | Strings               | Sum of the numbers in a string                                      | ✅   | --        |
-| 82        | Strings               | Capitalize first and last character of each word                    | ⏳   | --        |
+| 82        | Strings               | Capitalize first and last character of each word                    | ✅   | --        |
 | 83        | Strings               | Calculate frequency of characters in a string                       | ⏳   | --        |
 | 84        | Strings               | Find non-repeating characters of a string                           | ⏳   | --        |
 | 85        | Strings               | Check if two strings are anagram of each other                      | ⏳   | --        |
