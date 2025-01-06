@@ -16,3 +16,5 @@ def sum_of_numbers_in_string(string):
         total += int(current_number)
 
     return total
+
+print(sum_of_numbers_in_string('hello there 34 56 lol 61'))
