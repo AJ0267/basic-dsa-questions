@@ -9,7 +9,7 @@
 | 7        | Arrays               | Calculate sum of the elements of the array                               | ✅   | --        |
 | 8        | Arrays               | Rotate array by K elements - Block Swap Algorithm                               | ⏳   | --        |
 | 9        | Arrays               | Average of all elements in an array                               | ✅   | --        |
-| 10        | Arrays               | Find the median of the given array                                | ✅   | need to learn sorting algorithms        |
+| 10        | Arrays               | Find the median of the given array                                | ✅   |         |
 | 11        | Arrays               | Remove duplicates from a sorted array                                | ⏳   | --        |
 | 12        | Arrays               | Remove duplicates from unsorted array                                | ⏳   | --        |
 | 13        | Arrays               | Adding Element in an array                                | ✅   | --        |
