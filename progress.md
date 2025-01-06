@@ -89,7 +89,7 @@
 | 87        | Strings               | Check if two strings match where one string contains wildcard characters | ⏳   | --        |
 | 88        | Strings               | Return maximum occurring character in the input string              | ⏳   | --        |
 | 89        | Strings               | Remove all duplicates from the input string                         | ✅   | --        |
-| 90        | Strings               | Print all the duplicates in the input string                        | ⏳   | --        |
+| 90        | Strings               | Print all the duplicates in the input string                        | ✅   | --        |
 | 91        | Strings               | Remove characters from first string present in the second string     | ⏳   | --        |
 | 92        | Strings               | Change every letter with the next lexicographic alphabet in the given string | ⏳   | --        |
 | 93        | Strings               | Write a program to find the largest word in a given string          | ⏳   | --        |
