@@ -5,7 +5,7 @@
 | 3        | Arrays               | Second Smallest and Second Largest element in an array                               | ✅   | need sorting algorithms       |
 | 4        | Arrays               | Reverse a given array                               | ✅   | --        |
 | 5        | Arrays               | Count frequency of each element in an array                               | ✅   | --        |
-| 6        | Arrays               | Rearrange array in increasing-decreasing order                              |  ⏳    | need to learn sorting algorithms        |
+| 6        | Arrays               | Rearrange array in increasing-decreasing order                              |  ✅    | need sorting algorithms        |
 | 7        | Arrays               | Calculate sum of the elements of the array                               | ✅   | --        |
 | 8        | Arrays               | Rotate array by K elements - Block Swap Algorithm                               | ⏳   | --        |
 | 9        | Arrays               | Average of all elements in an array                               | ✅   | --        |
