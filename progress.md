@@ -2,7 +2,7 @@
 |----------|----------------------|----------------------------------------------------------|--------------|-----------|
 | 1        | Arrays               | Find the smallest number in an array                                | ✅   | --        |
 | 2        | Arrays               | Find the largest number in an array                                | ✅   | --        |
-| 3        | Arrays               | Second Smallest and Second Largest element in an array                               | ⏳   | need to learn sorting algorithms       |
+| 3        | Arrays               | Second Smallest and Second Largest element in an array                               | ✅   | need sorting algorithms       |
 | 4        | Arrays               | Reverse a given array                               | ✅   | --        |
 | 5        | Arrays               | Count frequency of each element in an array                               | ✅   | --        |
 | 6        | Arrays               | Rearrange array in increasing-decreasing order                              |  ⏳    | need to learn sorting algorithms        |
