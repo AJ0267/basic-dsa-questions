@@ -74,7 +74,7 @@
 | 72        | Sorting Algorithms    | Merge Sort Algorithm                                                | ✅   | --        |
 | 73        | Strings               | Check if a given string is palindrome or not                        | ✅   | --        |
 | 74        | Strings               | Count number of vowels, consonants, spaces in string                | ✅   | --        |
-| 75        | Strings               | Find the ASCII value of a character                                 | ⏳   | --        |
+| 75        | Strings               | Find the ASCII value of a character                                 | ✅   | ord()       |
 | 76        | Strings               | Remove all vowels from the string                                   | ✅   | --        |
 | 77        | Strings               | Remove spaces from a string                                         | ✅   | --        |
 | 78        | Strings               | Remove characters from a string except alphabets                    | ✅   | --        |
