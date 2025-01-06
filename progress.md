@@ -87,7 +87,7 @@
 | 85        | Strings               | Check if two strings are anagram of each other                      | ⏳   | --        |
 | 86        | Strings               | Count common sub-sequence in two strings                            | ⏳   | --        |
 | 87        | Strings               | Check if two strings match where one string contains wildcard characters | ⏳   | --        |
-| 88        | Strings               | Return maximum occurring character in the input string              | ⏳   | --        |
+| 88        | Strings               | Return maximum occurring character in the input string              | ✅   | --        |
 | 89        | Strings               | Remove all duplicates from the input string                         | ✅   | --        |
 | 90        | Strings               | Print all the duplicates in the input string                        | ✅   | --        |
 | 91        | Strings               | Remove characters from first string present in the second string     | ✅   | --        |
