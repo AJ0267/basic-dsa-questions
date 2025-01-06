@@ -71,7 +71,7 @@
 | 69        | Sorting Algorithms    | Selection Sort Algorithm                                            | ✅   | --        |
 | 70        | Sorting Algorithms    | Insertion Sort Algorithm                                            | ✅   | --        |
 | 71        | Sorting Algorithms    | Quick Sort Algorithm                                                | ✅   | --        |
-| 72        | Sorting Algorithms    | Merge Sort Algorithm                                                | ⏳   | --        |
+| 72        | Sorting Algorithms    | Merge Sort Algorithm                                                | ✅   | --        |
 | 73        | Strings               | Check if a given string is palindrome or not                        | ⏳   | --        |
 | 74        | Strings               | Count number of vowels, consonants, spaces in string                | ⏳   | --        |
 | 75        | Strings               | Find the ASCII value of a character                                 | ⏳   | --        |
