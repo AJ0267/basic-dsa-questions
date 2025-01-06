@@ -60,6 +60,48 @@
 | 58        | Numbers              | Can a number be expressed as a sum of two prime numbers             | ⏳   | --        |
 | 59        | Numbers              | Calculate the area of a circle                                      | ⏳   | --        |
 | 60        | Numbers              | Program to find roots of a quadratic equation                       | ⏳   | --        |
+| 61        | Number System         | Convert binary to decimal                                           | ⏳   | --        |
+| 62        | Number System         | Convert binary to octal                                             | ⏳   | --        |
+| 63        | Number System         | Convert decimal to binary                                           | ⏳   | --        |
+| 64        | Number System         | Convert decimal to octal                                            | ⏳   | --        |
+| 65        | Number System         | Convert octal to binary                                             | ⏳   | --        |
+| 66        | Number System         | Convert octal to decimal                                            | ⏳   | --        |
+| 67        | Number System         | Convert digits/numbers to words                                     | ⏳   | --        |
+| 68        | Sorting Algorithms    | Bubble Sort Algorithm                                               | ⏳   | --        |
+| 69        | Sorting Algorithms    | Selection Sort Algorithm                                            | ⏳   | --        |
+| 70        | Sorting Algorithms    | Insertion Sort Algorithm                                            | ⏳   | --        |
+| 71        | Sorting Algorithms    | Quick Sort Algorithm                                                | ⏳   | --        |
+| 72        | Sorting Algorithms    | Merge Sort Algorithm                                                | ⏳   | --        |
+| 73        | Strings               | Check if a given string is palindrome or not                        | ⏳   | --        |
+| 74        | Strings               | Count number of vowels, consonants, spaces in string                | ⏳   | --        |
+| 75        | Strings               | Find the ASCII value of a character                                 | ⏳   | --        |
+| 76        | Strings               | Remove all vowels from the string                                   | ⏳   | --        |
+| 77        | Strings               | Remove spaces from a string                                         | ⏳   | --        |
+| 78        | Strings               | Remove characters from a string except alphabets                    | ⏳   | --        |
+| 79        | Strings               | Reverse a string                                                   | ⏳   | --        |
+| 80        | Strings               | Remove brackets from an algebraic expression                        | ⏳   | --        |
+| 81        | Strings               | Sum of the numbers in a string                                      | ⏳   | --        |
+| 82        | Strings               | Capitalize first and last character of each word                    | ⏳   | --        |
+| 83        | Strings               | Calculate frequency of characters in a string                       | ⏳   | --        |
+| 84        | Strings               | Find non-repeating characters of a string                           | ⏳   | --        |
+| 85        | Strings               | Check if two strings are anagram of each other                      | ⏳   | --        |
+| 86        | Strings               | Count common sub-sequence in two strings                            | ⏳   | --        |
+| 87        | Strings               | Check if two strings match where one string contains wildcard characters | ⏳   | --        |
+| 88        | Strings               | Return maximum occurring character in the input string              | ⏳   | --        |
+| 89        | Strings               | Remove all duplicates from the input string                         | ⏳   | --        |
+| 90        | Strings               | Print all the duplicates in the input string                        | ⏳   | --        |
+| 91        | Strings               | Remove characters from first string present in the second string     | ⏳   | --        |
+| 92        | Strings               | Change every letter with the next lexicographic alphabet in the given string | ⏳   | --        |
+| 93        | Strings               | Write a program to find the largest word in a given string          | ⏳   | --        |
+| 94        | Strings               | Write a program to sort characters in a string                      | ⏳   | --        |
+| 95        | Strings               | Count number of words in a given string                             | ⏳   | --        |
+| 96        | Strings               | Write a program to find a word in a given string which has the highest number of repeated letters | ⏳   | --        |
+| 97        | Strings               | Change case of each character in a string                           | ⏳   | --        |
+| 98        | Strings               | Concatenate one string to another                                   | ⏳   | --        |
+| 99        | Strings               | Write a program to find a substring within a string. If found display its starting position | ⏳   | --        |
+| 100       | Strings               | Reverse words in a string                                           | ⏳   | --        |
+
+
 
 
 
