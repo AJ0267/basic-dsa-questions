@@ -78,7 +78,7 @@
 | 76        | Strings               | Remove all vowels from the string                                   | ⏳   | --        |
 | 77        | Strings               | Remove spaces from a string                                         | ⏳   | --        |
 | 78        | Strings               | Remove characters from a string except alphabets                    | ⏳   | --        |
-| 79        | Strings               | Reverse a string                                                   | ⏳   | --        |
+| 79        | Strings               | Reverse a string                                                   | ✅   | --        |
 | 80        | Strings               | Remove brackets from an algebraic expression                        | ⏳   | --        |
 | 81        | Strings               | Sum of the numbers in a string                                      | ⏳   | --        |
 | 82        | Strings               | Capitalize first and last character of each word                    | ⏳   | --        |
