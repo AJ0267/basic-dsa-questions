@@ -9,7 +9,7 @@ def second_smallest_largest(my_list):
                 my_list[j] = my_list[j+1]
                 my_list[j+1] = temp
 
-    return f"second smallest - {my_list[1]} \nsecond largest - {my_list[-2]}"
+    return f"second smallest -> {my_list[1]} \nsecond largest -> {my_list[-2]}"
 
 my_list = [9,2,3,5,4,6,8,7,1]
 print(second_smallest_largest(my_list))
