@@ -62,7 +62,7 @@
 | 60        | Numbers              | Program to find roots of a quadratic equation                       | ⏳   | --        |
 | 61        | Number System         | Convert binary to decimal                                           | ✅   | review        |
 | 62        | Number System         | Convert binary to octal                                             | ⏳   | --        |
-| 63        | Number System         | Convert decimal to binary                                           | ⏳   | --        |
+| 63        | Number System         | Convert decimal to binary                                           | ✅   | review        |
 | 64        | Number System         | Convert decimal to octal                                            | ⏳   | --        |
 | 65        | Number System         | Convert octal to binary                                             | ⏳   | --        |
 | 66        | Number System         | Convert octal to decimal                                            | ⏳   | --        |
