@@ -16,7 +16,9 @@ def sort_characters1(string):
     for i in range(n):
         for j in range(0, n - i - 1):
             if char_list[j] > char_list[j + 1]:
-                char_list[j], char_list[j + 1] = char_list[j + 1], char_list[j]
+                temp = char_list[j]
+                char_list[j] = char_list[j + 1]
+                char_list[j + 1] = temp
 
     sorted_string = ''.join(char_list)
     return sorted_string
