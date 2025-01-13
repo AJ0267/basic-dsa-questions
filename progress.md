@@ -7,7 +7,7 @@
 | 5        | Arrays               | Count frequency of each element in an array                               | ✅   | --        |
 | 6        | Arrays               | Rearrange array in increasing-decreasing order                              |  ✅    | need sorting algorithms, merge sort works best        |
 | 7        | Arrays               | Calculate sum of the elements of the array                               | ✅   | --        |
-| 8        | Arrays               | Rotate array by K elements - Block Swap Algorithm                               | ⏳   | --        |
+| 8        | Arrays               | Rotate array by K elements - Block Swap Algorithm                               | ✅   | review        |
 | 9        | Arrays               | Average of all elements in an array                               | ✅   | --        |
 | 10        | Arrays               | Find the median of the given array                                | ✅   |  sort() or sorted()       |
 | 11        | Arrays               | Remove duplicates from a sorted array                                | ⏳   | --        |
