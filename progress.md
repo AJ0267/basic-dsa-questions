@@ -30,7 +30,7 @@
 | 28        | Numbers              | Check if a number is prime or not                                   | ⏳   | --        |
 | 29        | Numbers              | Prime numbers in a given range                                      | ⏳   | --        |
 | 30        | Numbers              | Check if a number is an armstrong number or not                     | ✅   | --        |
-| 31        | Numbers              | Check if a number is a perfect number                               | ⏳   | --        |
+| 31        | Numbers              | Check if a number is a perfect number                               | ✅   | --        |
 | 32        | Numbers              | Even or Odd                                                         | ✅   | --        |
 | 33        | Numbers              | Check whether a given number is positive or negative                | ✅   | --        |
 | 34        | Numbers              | Sum of first N natural numbers                                      | ✅   | (n * (n+1)) // 2       |
