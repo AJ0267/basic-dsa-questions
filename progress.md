@@ -93,7 +93,7 @@
 | 91        | Strings               | Remove characters from first string present in the second string     | ✅   | --        |
 | 92        | Strings               | Change every letter with the next lexicographic alphabet in the given string | ⏳   | --        |
 | 93        | Strings               | Write a program to find the largest word in a given string          | ⏳   | --        |
-| 94        | Strings               | Write a program to sort characters in a string                      | ⏳   | --        |
+| 94        | Strings               | Write a program to sort characters in a string                      | ✅   | --        |
 | 95        | Strings               | Count number of words in a given string                             | ✅   | --        |
 | 96        | Strings               | Write a program to find a word in a given string which has the highest number of repeated letters | ⏳   | --        |
 | 97        | Strings               | Change case of each character in a string                           | ✅   | isupper(), islower(), upper(), lower()        |
