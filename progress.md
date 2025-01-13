@@ -60,7 +60,7 @@
 | 58        | Numbers              | Can a number be expressed as a sum of two prime numbers             | ⏳   | --        |
 | 59        | Numbers              | Calculate the area of a circle                                      | ✅   | --        |
 | 60        | Numbers              | Program to find roots of a quadratic equation                       | ⏳   | --        |
-| 61        | Number System         | Convert binary to decimal                                           | ⏳   | --        |
+| 61        | Number System         | Convert binary to decimal                                           | ✅   | review        |
 | 62        | Number System         | Convert binary to octal                                             | ⏳   | --        |
 | 63        | Number System         | Convert decimal to binary                                           | ⏳   | --        |
 | 64        | Number System         | Convert decimal to octal                                            | ⏳   | --        |
