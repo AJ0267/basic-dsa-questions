@@ -35,7 +35,7 @@
 | 33        | Numbers              | Check whether a given number is positive or negative                | ✅   | --        |
 | 34        | Numbers              | Sum of first N natural numbers                                      | ✅   | (n * (n+1)) // 2       |
 | 35        | Numbers              | Find sum of AP Series                                               | ✅   | sum of AP = n/2 * (2a + (n-1) * d)        |
-| 36        | Numbers              | Program to find sum of GP Series                                    | ⏳   | --        |
+| 36        | Numbers              | Program to find sum of GP Series                                    | ✅   | sum of GP = a * (1 - r**n) / (1 - r)  when r = 1, a * n      |
 | 37        | Numbers              | Greatest of two numbers                                             | ✅   | --        |
 | 38        | Numbers              | Greatest of three numbers                                           | ✅   | --        |
 | 39        | Numbers              | Leap year or not                                                    | ✅   | --        |
