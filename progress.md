@@ -56,7 +56,7 @@
 | 54        | Numbers              | Sum of numbers in the given range                                   | ✅   | --        |
 | 55        | Numbers              | Permutations in which N people can occupy R seats in a classroom    | ⏳   | --        |
 | 56        | Numbers              | Program to add two fractions                                        | ⏳   | --        |
-| 57        | Numbers              | Replace all 0s with 1s in a given integer                           | ⏳   | --        |
+| 57        | Numbers              | Replace all 0s with 1s in a given integer                           | ✅   | --        |
 | 58        | Numbers              | Can a number be expressed as a sum of two prime numbers             | ⏳   | --        |
 | 59        | Numbers              | Calculate the area of a circle                                      | ⏳   | --        |
 | 60        | Numbers              | Program to find roots of a quadratic equation                       | ⏳   | --        |
