@@ -84,7 +84,7 @@
 | 82        | Strings               | Capitalize first and last character of each word                    | ✅   | upper()        |
 | 83        | Strings               | Calculate frequency of characters in a string                       | ✅   | --        |
 | 84        | Strings               | Find non-repeating characters of a string                           | ✅   | --        |
-| 85        | Strings               | Check if two strings are anagram of each other                      | ⏳   | --        |
+| 85        | Strings               | Check if two strings are anagram of each other                      | ✅   | --        |
 | 86        | Strings               | Count common sub-sequence in two strings                            | ⏳   | --        |
 | 87        | Strings               | Check if two strings match where one string contains wildcard characters | ⏳   | --        |
 | 88        | Strings               | Return maximum occurring character in the input string              | ✅   | --        |
