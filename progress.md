@@ -63,7 +63,7 @@
 | 61        | Number System         | Convert binary to decimal                                           | ✅   | review        |
 | 62        | Number System         | Convert binary to octal                                             | ✅   | review        |
 | 63        | Number System         | Convert decimal to binary                                           | ✅   | review        |
-| 64        | Number System         | Convert decimal to octal                                            | ⏳   | --        |
+| 64        | Number System         | Convert decimal to octal                                            | ✅   | review        |
 | 65        | Number System         | Convert octal to binary                                             | ⏳   | --        |
 | 66        | Number System         | Convert octal to decimal                                            | ⏳   | --        |
 | 67        | Number System         | Convert digits/numbers to words                                     | ⏳   | --        |
