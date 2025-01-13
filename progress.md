@@ -50,7 +50,7 @@
 | 48        | Numbers              | Check if a number is Automorphic                                    | ✅   | --        |
 | 49        | Numbers              | GCD of two numbers                                                  | ⏳   | --        |
 | 50        | Numbers              | LCM of two numbers                                                  | ⏳   | --        |
-| 51        | Numbers              | Check if a number is a Harshad number                               | ⏳   | --        |
+| 51        | Numbers              | Check if a number is a Harshad number                               | ✅   | --        |
 | 52        | Numbers              | Check if the number is an abundant number or not                    | ✅   | --        |
 | 53        | Numbers              | Sum of digits of a number                                           | ✅   | --        |
 | 54        | Numbers              | Sum of numbers in the given range                                   | ✅   | --        |
