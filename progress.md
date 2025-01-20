@@ -17,7 +17,7 @@
 | 15        | Arrays               | Find all non-repeating elements in an array                               | ✅   | --        |
 | 16        | Arrays               | Find all symmetric pairs in array                                    | ✅   | --        |
 | 17        | Arrays               | Maximum product subarray in an array                                | ✅   | review        |
-| 18        | Arrays               | Replace each element of the array by its rank in the array          | ⏳   | --        |
+| 18        | Arrays               | Replace each element of the array by its rank in the array          | ✅   | --        |
 | 19        | Arrays               | Sorting elements of an array by frequency                           | ⏳   | --        |
 | 20        | Arrays               | Rotation of elements of array - left and right                     | ✅   | --        |
 | 21        | Arrays               | Finding equilibrium index of an array                               | ⏳   | --        |
