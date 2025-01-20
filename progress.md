@@ -10,7 +10,7 @@
 | 8        | Arrays               | Rotate array by K elements - Block Swap Algorithm                               | ✅   | review        |
 | 9        | Arrays               | Average of all elements in an array                               | ✅   | --        |
 | 10        | Arrays               | Find the median of the given array                                | ✅   |  sort() or sorted()       |
-| 11        | Arrays               | Remove duplicates from a sorted array                                | ⏳   | --        |
+| 11        | Arrays               | Remove duplicates from a sorted array                                | ✅   | --        |
 | 12        | Arrays               | Remove duplicates from unsorted array                                | ⏳   | --        |
 | 13        | Arrays               | Adding Element in an array                                | ✅   | --        |
 | 14        | Arrays               | Find all repeating elements in an array                               | ✅   | --        |
