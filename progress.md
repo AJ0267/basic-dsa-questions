@@ -18,7 +18,7 @@
 | 16        | Arrays               | Find all symmetric pairs in array                                    | ✅   | --        |
 | 17        | Arrays               | Maximum product subarray in an array                                | ✅   | review        |
 | 18        | Arrays               | Replace each element of the array by its rank in the array          | ✅   | --        |
-| 19        | Arrays               | Sorting elements of an array by frequency                           | ⏳   | --        |
+| 19        | Arrays               | Sorting elements of an array by frequency                           | ✅   | review        |
 | 20        | Arrays               | Rotation of elements of array - left and right                     | ✅   | --        |
 | 21        | Arrays               | Finding equilibrium index of an array                               | ⏳   | --        |
 | 22        | Arrays               | Finding circular rotation of an array by K positions               | ✅  | rotated_array = arr[-K:] + arr[:-K]       |
