@@ -66,7 +66,7 @@
 | 64        | Number System         | Convert decimal to octal                                            | ✅   | review        |
 | 65        | Number System         | Convert octal to binary                                             | ✅   | review        |
 | 66        | Number System         | Convert octal to decimal                                            | ✅   | review        |
-| 67        | Number System         | Convert digits/numbers to words                                     | ⏳   | --        |
+| 67        | Number System         | Convert digits/numbers to words                                     | ✅   | review        |
 | 68        | Sorting Algorithms    | Bubble Sort Algorithm                                               | ✅   | --        |
 | 69        | Sorting Algorithms    | Selection Sort Algorithm                                            | ✅   | --        |
 | 70        | Sorting Algorithms    | Insertion Sort Algorithm                                            | ✅   | --        |
