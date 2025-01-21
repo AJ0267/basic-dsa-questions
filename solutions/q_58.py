@@ -1,8 +1,6 @@
 # Program to find roots of a quadratic equation. 
 
 def sqrt(num):
-    if num < 0:
-        return num ** 0.5
     return num ** 0.5
 
 def find_roots(a, b, c):
