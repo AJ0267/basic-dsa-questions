@@ -48,8 +48,8 @@
 | 46        | Numbers              | Print all prime factors of the given number                         | ✅   | review        |
 | 47        | Numbers              | Check if a number is a strong number or not                         | ✅   | --        |
 | 48        | Numbers              | Check if a number is Automorphic                                    | ✅   | --        |
-| 49        | Numbers              | GCD of two numbers                                                  | ⏳   | --        |
-| 50        | Numbers              | LCM of two numbers                                                  | ⏳   | --        |
+| 49        | Numbers              | GCD of two numbers                                                  | ✅   | --        |
+| 50        | Numbers              | LCM of two numbers                                                  | ✅   | --        |
 | 51        | Numbers              | Check if a number is a Harshad number                               | ✅   | --        |
 | 52        | Numbers              | Check if the number is an abundant number or not                    | ✅   | --        |
 | 53        | Numbers              | Sum of digits of a number                                           | ✅   | --        |
