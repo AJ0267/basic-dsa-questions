@@ -24,7 +24,7 @@
 | 22        | Arrays               | Finding circular rotation of an array by K positions               | ✅  | rotated_array = arr[-K:] + arr[:-K]       |
 | 23        | Arrays               | Sort an array according to the order defined by another array       | ✅   | --        |
 | 24        | Arrays               | Search an element in an array                                       | ✅   | --        |
-| 25        | Arrays               | Check if Array is a subset of another array or not                  | ⏳   | --        |
+| 25        | Arrays               | Check if Array is a subset of another array or not                  | ✅   | review        |
 | 26        | Numbers              | Check if a number is palindrome or not                              | ✅   | --        |
 | 27        | Numbers              | Find all palindrome numbers in a given range                        | ✅   | --        |
 | 28        | Numbers              | Check if a number is prime or not                                   | ✅   | --        |
