@@ -44,7 +44,7 @@
 | 42        | Numbers              | Print Fibonacci up to Nth term                                      | ✅   | --        |
 | 43        | Numbers              | Factorial of a number                                               | ✅   | --        |
 | 44        | Numbers              | Power of a number                                                   | ✅   | --        |
-| 45        | Numbers              | Factors of a given number                                           | ⏳   | --        |
+| 45        | Numbers              | Factors of a given number                                           | ✅   | review        |
 | 46        | Numbers              | Print all prime factors of the given number                         | ⏳   | --        |
 | 47        | Numbers              | Check if a number is a strong number or not                         | ⏳   | --        |
 | 48        | Numbers              | Check if a number is Automorphic                                    | ✅   | --        |
