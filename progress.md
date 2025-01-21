@@ -20,7 +20,7 @@
 | 18        | Arrays               | Replace each element of the array by its rank in the array          | ✅   | --        |
 | 19        | Arrays               | Sorting elements of an array by frequency                           | ✅   | review        |
 | 20        | Arrays               | Rotation of elements of array - left and right                     | ✅   | --        |
-| 21        | Arrays               | Finding equilibrium index of an array                               | ✅   | --        |
+| 21        | Arrays               | Finding equilibrium index of an array                               | ✅   | review        |
 | 22        | Arrays               | Finding circular rotation of an array by K positions               | ✅  | rotated_array = arr[-K:] + arr[:-K]       |
 | 23        | Arrays               | Sort an array according to the order defined by another array       | ✅   | --        |
 | 24        | Arrays               | Search an element in an array                                       | ✅   | --        |
